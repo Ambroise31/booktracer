@@ -16,7 +16,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>SpringMVCDispatcher</servlet-name>
-    <url-pattern>/</url-pattern>
+    <url-pattern>/*</url-pattern>
   </servlet-mapping>
   <servlet>
     <display-name>Apache-Axis Servlet</display-name>
