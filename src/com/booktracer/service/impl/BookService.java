@@ -13,6 +13,9 @@ import com.booktracer.service.IBookService;
 
 @Service
 public class BookService implements IBookService {
+
+
+	
 @Autowired
 IBookRepository bookRepo;
 	
